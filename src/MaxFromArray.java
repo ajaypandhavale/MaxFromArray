@@ -31,6 +31,7 @@ public class MaxFromArray {
 		
 		System.out.println("max ="+max);
 		
+		System.out.println("update using update branch");
 		
 
 	}
